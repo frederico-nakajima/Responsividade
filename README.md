@@ -14,12 +14,12 @@
 <br>
 
 <p align="center">
-  <img alt="calendario da copa" src="assets/Mobile.png" width="100%">
+  <img alt="calendario da copa" src="assets/Mobile.png" width="80%">
 </p>
 <br>
 
 <p align="center">
-  <img alt="calendario da copa" src="assets/Desktop.png" width="100%">
+  <img alt="calendario da copa" src="assets/Desktop.png" width="80%">
 </p>
 
 ## 🚀 Tecnologias
